@@ -10,7 +10,10 @@ It is especially suited for projects utilizing some kind of bus (i2c, spi etc) w
 FIXME: Add link to kickstarter here
 
 # How can I make one?
-Head over to https://github.com/innovationgarage/ProtoSwitchBoard and download the design sketches and production guides. Making your own requires a 3d printer and intermediate soldering skills.
+Head over to [github](https://github.com/innovationgarage/ProtoSwitchBoard) and download the design sketches and production guides. Making your own requires a 3d printer and intermediate soldering skills.
 
 # License
 All designs are Creative Commons CC-BY-SA licensed, so hack away at our design and make it better! Just remember that if you publish any derivative designs they need to use the same license! Sharing is caring!
+
+# Feature requests
+Please send us any cool extension ideas or change requests as github issues! We'd love to hear your feedback!
