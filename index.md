@@ -4,7 +4,7 @@ Does all your electronics prototypes end up looking like a snake nest? Are you f
 
 It is especially suited for projects utilizing some kind of bus (i2c, spi etc) where multiple units share connections. Below is a picture of an experimental setup with an ADF signal generator hooked up to an arduino over spi, and a logic analyzer to debug the protocol. It is using an early prototype of the ProtoSwitchBoard:
 
-![Blah](../IMG_20170824_152607.jpg)
+![Blah](IMG_20170824_152607.jpg)
 
 # Where can I get one
 FIXME: Add link to kickstarter here
