@@ -12,6 +12,9 @@ FIXME: Add link to kickstarter here
 # How can I make one?
 Head over to [github](https://github.com/innovationgarage/ProtoSwitchBoard) and download the design sketches and production guides. Making your own requires a 3d printer and intermediate soldering skills.
 
+# Paper
+The labels on the ProtoSwitchBoard are written on ordinary paper placed inside the device. The paper size is the standard one used for business cards (3.5" x 2"), which means that you can order it, with or without pre-printed labels, from any online bussiness card printing service. You can of course also just cut some ordinary paper to size with a pair of cissors!
+
 # License
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">ProtoSwitchBoard</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://innovationgarage.no" property="cc:attributionName" rel="cc:attributionURL">Innovation Garage AS</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://innovationgarage.github.io/ProtoSwitchBoard/" rel="dct:source">https://innovationgarage.github.io/ProtoSwitchBoard/</a>.
 
