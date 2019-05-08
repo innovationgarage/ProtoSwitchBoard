@@ -1,5 +1,5 @@
-content = "Maroney";
-font="Arial Black:style=Bold";
+content = "Matteo 79";
+font="Makisupa:style=Regular";
 size=5;
 halign="center";
 
@@ -8,7 +8,7 @@ union(){
         import("protoswitchboard_cover_1.stl");
 
     // The two labels
-    translate([-44.6,-85,3.1])
+    translate([-44.5,-85,2])
     {
         translate([0,85,0])
         rotate([90,0,270])
@@ -24,7 +24,7 @@ module drawLabel()
         offset(0.5)
             text(content,font=font,size=size,halign=halign);*/
 
-    linear_extrude(1)
+    linear_extrude(1.5)
         text(content,font=font,size=size,halign=halign);
     //}
 }
