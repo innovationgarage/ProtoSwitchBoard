@@ -18,7 +18,7 @@ The labels on the ProtoSwitchBoard are written on ordinary paper placed inside t
 [Our KickStarter Campaign (ended!)](https://www.kickstarter.com/projects/innovationgarage/make-100-protoswitchboard)
 
 # How can I make one?
-Head over to [github](https://github.com/innovationgarage/ProtoSwitchBoard) and download the design sketches and production guides. Making your own requires a 3d printer and intermediate soldering skills.
+Head over to [github](https://github.com/innovationgarage/ProtoSwitchBoard) and download the design sketches and production guides. Also check out the series of videos about designing the PSB and the board on our [YouTube channel](https://www.youtube.com/playlist?list=PLY4o1mrRuBsQnnVYa_X7dxk9r05DX0oiS). Making your own requires a 3d printer and intermediate soldering skills.
 
 # Example project
 * [The Princess Ophelias Sister Alarm](https://innovationgarage.github.io/SisterAlarm)
