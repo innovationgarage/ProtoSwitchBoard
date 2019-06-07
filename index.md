@@ -15,7 +15,7 @@ It is especially suited for projects utilizing some kind of bus (i2c, spi etc) w
 The labels on the ProtoSwitchBoard are written on ordinary paper placed inside the device. The paper size is the standard one used for business cards (3.5" x 2"), which means that you can order it, with or without pre-printed labels, from any online bussiness card printing service. You can of course also just cut some ordinary paper to size with a pair of cissors!
 
 # Where can I get one
-FIXME: Add link to kickstarter here
+[Our KickStarter Campaign (ended!)](https://www.kickstarter.com/projects/innovationgarage/make-100-protoswitchboard)
 
 # How can I make one?
 Head over to [github](https://github.com/innovationgarage/ProtoSwitchBoard) and download the design sketches and production guides. Making your own requires a 3d printer and intermediate soldering skills.
